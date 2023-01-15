@@ -1,0 +1,68 @@
+form {
+  text-align: center;
+}
+thead {
+  color: blue;
+  text-align: center;
+}
+th:hover {
+  color: black;
+  cursor: pointer;
+  font-size: 18px;
+}
+tr {
+  text-align: center;
+  font-size: 16px;
+}
+.icon {
+  font-size: 34px;
+}
+.enter {
+  padding: 5px 150px 5px 10px;
+}
+.search {
+  text-align: center;
+  padding: 5px 20px;
+  border-radius: 4px;
+  color: white;
+  background: blue;
+  border: none;
+}
+.sun {
+  color: yellow;
+  font-size: 40px;
+}
+.col-6 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: blue;
+}
+.col-12 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 100;
+  color: black;
+}
+
+.container {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 80px 60px 30px 60px;
+  background: #e9ebf0;
+}
+.celTemp {
+  font-size: 20px;
+}
+.celTemp:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.fahTemp {
+  font-size: 20px;
+}
+.fahTemp:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
